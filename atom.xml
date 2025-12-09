@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://reliablemuc.github.io</id>
+    <title>树梢</title>
+    <updated>2025-12-09T10:11:07.254Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://reliablemuc.github.io"/>
+    <link rel="self" href="https://reliablemuc.github.io/atom.xml"/>
+    <subtitle>you  can&apos;t always get what you want</subtitle>
+    <logo>https://reliablemuc.github.io/images/avatar.png</logo>
+    <icon>https://reliablemuc.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2025, 树梢</rights>
+    <entry>
+        <title type="html"><![CDATA[longlive]]></title>
+        <id>https://reliablemuc.github.io/post/longlive/</id>
+        <link href="https://reliablemuc.github.io/post/longlive/">
+        </link>
+        <updated>2025-12-09T09:45:58.000Z</updated>
+        <content type="html"><![CDATA[<p>我在互联网上的新家</p>
+]]></content>
+    </entry>
+</feed>
